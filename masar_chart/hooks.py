@@ -52,7 +52,6 @@ app_license = "MIT"
 
 # automatically create page for each record of this doctype
 # website_generators = ["Web Page"]
-
 # Installation
 # ------------
 
@@ -172,4 +171,3 @@ user_data_fields = [
 # auth_hooks = [
 # 	"masar_chart.auth.validate"
 # ]
-
